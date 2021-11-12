@@ -7,7 +7,7 @@ Resource   ../Locators/xpath.robot
 
 
 *** Keywords ***
-Verify Green Shirt  
+Verify Green Shirt 
     ClickText    Bumble the Elephant
     sleep        5s
     ClickElement           xpath\=//div[@class\="style-picker"]//div[@style\="background-color: #67aa79"]   
