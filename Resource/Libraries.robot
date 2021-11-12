@@ -1,7 +1,7 @@
 *** Settings ***
 Documentation  this page only for custom Keywords.
 Library    QWeb
-Resource   ./Locators/xpath.robot
+Resource   ../Locators/xpath.robot
 
 
 
