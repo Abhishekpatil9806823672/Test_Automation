@@ -39,9 +39,8 @@ Input password
       ClickText          LOGIN   
       Sleep              10s  
 //shoping
-
 Start qentinelqi
-    GoTo                ${qentinelqiLoginurl}
+   GoTo             ${QentinelqiLoginurl}
 
 Verify Gerald the Giraffe
      VerifyText          $9.00
