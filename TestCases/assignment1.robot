@@ -9,7 +9,7 @@ Suite Teardown          CloseBrowser
 
 
 *** Test Cases ***
-Assignment11
+Assignment1
      Start qentinelqi
      Verify Gerald the Giraffe
      Verify Gerald the Giraffe Price
