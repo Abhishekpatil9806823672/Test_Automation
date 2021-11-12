@@ -1,5 +1,4 @@
 *** Settings ***
-
 Documentation           Test suite for Pace starter.
 Library                 QWeb
 Resource                ../Rescource/Libraries.robot 
@@ -10,7 +9,7 @@ Suite Teardown          CloseBrowser
 
 
 *** Test Cases ***
-Assignment1 
+Assignment11
      Start qentinelqi
      Verify Gerald the Giraffe
      Verify Gerald the Giraffe Price
