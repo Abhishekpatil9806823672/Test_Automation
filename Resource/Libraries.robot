@@ -1,7 +1,7 @@
 *** Settings ***
 Documentation  this page only for custom Keywords.
 Library    QWeb
-Resource   ../Locators/xpath.robot
+Resource   ./Locators/xpath.robot
 
 
 
@@ -42,7 +42,7 @@ Input password
 
 Start qentinelqi
     GoTo                ${qentinelqiLoginurl}
-    
+
 Verify Gerald the Giraffe
      VerifyText          $9.00
      ClickText           Gerald the Giraffe
