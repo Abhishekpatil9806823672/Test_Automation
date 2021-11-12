@@ -2,8 +2,8 @@
 
 Documentation           Test suite for Pace starter.
 Library                 QWeb
-Resource                ../Rescource/Libraries.robot 
-Resource                ./Locators/xpath.robot
+Resource                 ../Resource/Libaries.robot
+Resource                ../Locators/xpath.robot
 Suite Setup             Open Browser   about:blank        chrome
 Suite Teardown          Close All Browsers
 
