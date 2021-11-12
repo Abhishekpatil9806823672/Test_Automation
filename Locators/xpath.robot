@@ -3,7 +3,6 @@ Library    QWeb
 #Resource    ../Locators/xpath.robot
 
 *** Variables ***
-
 ${GreenShirt}                 xpath\=//img[@src\="/shop/images/products/elephant/green.jpg"] 
 ${creamshiert}                 xpath\=//img[@src\="/shop/images/products/elephant/cream.jpg"] 
 ${password}               Welcome@123  
