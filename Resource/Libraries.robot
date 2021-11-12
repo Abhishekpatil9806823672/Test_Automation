@@ -42,6 +42,7 @@ Input password
 
 Start qentinelqi
     GoTo                ${qentinelqiLoginurl}
+    
 Verify Gerald the Giraffe
      VerifyText          $9.00
      ClickText           Gerald the Giraffe
