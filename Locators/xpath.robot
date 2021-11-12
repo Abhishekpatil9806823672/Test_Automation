@@ -9,4 +9,4 @@ ${password}               Welcome@123
 ${Loginurl}              https://robotic.copado.com/
 ${Browser}               chrome
 ${email}                  killdil230@gmail.com
-${qentinelqiLoginurl}     https://qentinelqi.github.io/shop/
+${QentinelqiLoginurl}     https://qentinelqi.github.io/shop/
