@@ -1,5 +1,4 @@
 *** Settings ***
-
 Documentation           Test suite for Pace starter.
 Library                 QWeb
 Resource                ../Rescource/Libraries.robot 
@@ -9,7 +8,7 @@ Suite Teardown          Close All Browsers
 
 
 
-*** Test Cases ***test
+*** Test Cases ***
 Assignment2 
     Start Test Case
     ScrollTo        Bumble the Elephant    
