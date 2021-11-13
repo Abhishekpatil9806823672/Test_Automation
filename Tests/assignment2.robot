@@ -11,7 +11,6 @@ Suite Teardown          Close All Browsers
 
 *** Test Cases ***test
 Assignment2 
-
     Start Test Case
     ScrollTo        Bumble the Elephant    
     Verify Green Shirt 
